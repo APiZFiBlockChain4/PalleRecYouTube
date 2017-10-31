@@ -1,0 +1,4 @@
+#Tue May 09 13:42:24 PDT 2017
+base.0=F\:\\PalleRecYouTube\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=F\:\\PalleRecYouTube\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
